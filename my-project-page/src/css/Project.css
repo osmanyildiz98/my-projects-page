@@ -1,0 +1,38 @@
+.project-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: gold;
+    padding: 1.5rem;
+    border: 3px solid #001d3d;
+    border-radius: 10px;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+h2{
+    align-self: flex-start;
+    padding: 0 10px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: gold;
+    background-color: #001d3d;
+    border-radius: 4px;
+}
+
+a {
+    align-self: flex-start;
+    text-decoration: none;
+    color: #001d3d;
+    font-size: 1.2rem;
+    padding: 0 5px;
+}
+
+a:hover {
+    background-color: #001d3d;
+    color: gold;
+}

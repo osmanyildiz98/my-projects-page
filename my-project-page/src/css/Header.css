@@ -1,0 +1,20 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: gold;
+    border-bottom: 4px solid #001d3d;
+    color: #001d3d;
+}
+
+.header-icons {
+    font-size: 1.8rem;
+    cursor: pointer;
+
+}
+
+.header-icons-container {
+    display: flex;
+    gap: .7rem;
+}

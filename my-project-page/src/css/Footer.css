@@ -1,0 +1,15 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.3rem;
+    padding-right: 20px;
+    background-color: gold;
+    border-top: 4px solid #001d3d;
+}
+
+.social-icons {
+    font-size: 1.8rem;
+    margin: 1rem 0;
+    color: #001d3d;
+}
